@@ -1,0 +1,2 @@
+This is the second file we've created as part of the Git class.
+Again, we'll be staging and commiting this file just as we did for the first file.
