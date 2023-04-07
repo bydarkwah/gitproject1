@@ -1,0 +1,4 @@
+This is the first file we are creating as part of the Git class.
+We will be staging the file first.
+Then we will commit the file in Git.
+Changes in the file are tracked.
