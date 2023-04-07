@@ -1,3 +1,0 @@
-This is a new file we are creating as part of the Git class. 
-It is just for illustration purpose.
-We will be staging and committing this file in Git.
